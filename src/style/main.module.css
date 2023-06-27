@@ -12,6 +12,6 @@
     display: grid;
     grid-template-columns: 1fr 10fr;
     align-items: stretch;
-    justify-items: center;
+    
     
 }

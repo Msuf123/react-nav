@@ -1,0 +1,20 @@
+.main{
+    margin-left: 5px;
+    width: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 30px;
+    padding: 2px;
+    border-radius: 2px;
+}
+.main div{
+    width: 80%;
+    height: 5px;
+    background-color: black;
+}
+.main:hover{
+  background-color: rgba(245, 245, 245, 0.514);
+  color: aliceblue;
+}

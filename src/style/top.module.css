@@ -1,0 +1,13 @@
+.main{
+    margin: 0px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.main h1{
+    margin: 0px auto;
+    text-align: center;
+    
+    width: max-content;
+}

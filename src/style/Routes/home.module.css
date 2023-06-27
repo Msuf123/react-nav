@@ -1,0 +1,8 @@
+.main{
+    background-color: grey;
+    text-align: center;
+    height: max-content;
+    margin-top: 30vh;
+    padding: 10px;
+    border-radius: 5px;
+}

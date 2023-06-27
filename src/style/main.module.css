@@ -1,0 +1,17 @@
+.main{
+    background-color: rgb(184, 70, 70);
+    height: 100vh;
+    margin: 0px;
+    display: grid;
+    grid-template-rows: 1fr 10fr;
+    
+    
+}
+.bottom{
+    
+    display: grid;
+    grid-template-columns: 1fr 10fr;
+    align-items: stretch;
+    justify-items: center;
+    
+}
